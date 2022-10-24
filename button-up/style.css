@@ -1,0 +1,35 @@
+#search {
+    background-color:lightgray;
+    border-color: teal;
+    border: 2px teal;
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    color: teal;
+    margin: 5px;
+}
+
+#dot {
+    background-color:rgb(38, 190, 119);
+    border-color: rgb(38, 190, 119);
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border-style: solid;
+    color: white;
+    font-size: x-large;
+    margin: 5px;
+}
+
+#block {
+    margin:5px;
+    box-shadow: 5px 5px 0px black;
+    width: 170px;
+    height: 40px;
+    border: 3px solid black;
+    color: white;
+    font-size: large;
+    font-family: sans-serif;
+    background-color: rgb(99, 146, 218);
+}
